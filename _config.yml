@@ -1,0 +1,14 @@
+layout_spectrum: 0.0972073
+typography_spectrum: 0.5483351
+color:
+  saturation: 0.4381625
+  lightness: 0.5707607
+  brandStrength: 1
+  brandColors:
+    - '#6799D8'
+    - '#4676B8'
+    - '#293E69'
+    - '#080F23'
+    - '#65658C'
+  rhythmicContrast: 0.1028465
+name: voyages
